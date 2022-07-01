@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first odin project! By completing this, I will improve my skills in html before starting CSS
+Project suggested at the HTML unit on the Odin Project path. This is my very first contact with html in context.
